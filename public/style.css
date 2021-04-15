@@ -1,0 +1,29 @@
+body{
+	margin: 0;
+    background-color: #f6f6f6;
+    overflow-x: hidden;
+}
+
+
+
+.frame{
+	margin-top: 5%;
+}
+
+.candiName{
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.candiPosition{
+	font-weight: normal;
+	font-size: 20px;
+}
+
+.number{
+	background-color: #339e66ff;
+	border-radius: 50px;
+	margin: 10px;
+	text-align: center;
+	color: white;
+}
